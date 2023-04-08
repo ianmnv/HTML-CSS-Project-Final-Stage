@@ -1,2 +1,2 @@
 # HTML-CSS-Project-Final-Stage
-Ended the page I was working on but implemented flexbox and CSS grid.
+Learned about the box-sizing property, the flexbox property and CSS grid, experimenting with their properties and finishing my first page.
